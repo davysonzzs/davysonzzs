@@ -1,27 +1,34 @@
 # oi oi! bem-vindo ao meu github!
 ## conheça mais sobre mim 🔽
 <br>
-Meu nome é Davyson, tenho 15 anos e faço densenvolvimento de sistemas <br>
+Meu nome é Davyson, tenho 17 anos e curso densenvolvimento de sistemas <br>
 na EEEP Deuputado roberto mesquita!
 <br>
 <br>
 
-## Essa são algumas da minhas liguagens que estou aprimorando e aprendendo!!
+## Aprendendo e Aprimorando
 <br>
 <div>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width:"40" height="40" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width:"40" height="40" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width:"40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width:"40" height="40" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width:"40" height="40" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width:"40" height="40" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width:"40" height="40" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg"  width:"40" height="40" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width:"40" height="40" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width:"40" height="40" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width:"40" height="40" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width:"40" height="40" />
 </div>
 <br>
-- 🔭 Atualmente estou trabalhando em alguns pequenos projetos com intuitos educacionais!
+- 🔭 Sempre viso o futuro, seja melhor hoje para não errar amanha!
 <br>
-- 😎 Sempre procuro me aprimorar nas coisas que ja sei para melhorar meus resultados!
+- 😎 Procuro me aprimorar nas coisas que ja sei, Mas Aprender nunca é demais!
 <br>
-- 💨 Planejo ser um engeheiro de sorfware no futuro 
+- 💨 Futuro Engeheiro de sorfware 
 <br>
-- 💤 Curiosidade: Amo jogos, tanto que quando mais novo, eu queria ser um youtube de longplay😁!
+- 💤 Curiosidades: Amo jogos, Gosto muitos de esportes mas ainda sou um nerd raiz🤓!
 <br>
 
 # Como entra em contato cmg?!
