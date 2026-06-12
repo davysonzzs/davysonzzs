@@ -2,7 +2,7 @@
 ## conheça mais sobre mim 🔽
 <br>
 Meu nome é Davyson, tenho 17 anos e curso densenvolvimento de sistemas <br>
-na EEEP Deuputado roberto mesquita!
+na EEEP Deputado roberto mesquita!
 <br>
 <br>
 
@@ -17,6 +17,8 @@ na EEEP Deuputado roberto mesquita!
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width:"40" height="40" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg"  width:"40" height="40" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width:"40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width:"40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width:"40" height="40" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width:"40" height="40" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width:"40" height="40" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width:"40" height="40" />
