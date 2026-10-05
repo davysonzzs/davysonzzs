@@ -2,7 +2,7 @@
 **`Desenvolvedor FullStack`**
 ## conheça mais sobre mim 🔽
 <br>
-tenho 17 anos e curso densenvolvimento de sistemas na EEEP Deputado roberto mesquita! <br> tenho experiencia de mais de **2 ano** na área estudando por conta Própria <br>
+tenho 17 anos e curso densenvolvimento de sistemas na EEEP Deputado roberto mesquita! <br> estudo e me aprimoro <strong> a mais de 2 anos </strong> na área por conta Própria <br>
 Tenhos alguns certificados de cursos Gratuitos Como os Cursos do Curso em video <br>
 <br>
 Curso de html e css<br>
