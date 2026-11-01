@@ -1,14 +1,14 @@
 # Oi! Eu sou Davyson
 **`Desenvolvedor FullStack`**
-## conheça mais sobre mim 🔽
 <br>
-tenho 17 anos e curso densenvolvimento de sistemas na EEEP Deputado roberto mesquita! <br> estudo e me aprimoro <strong> a mais de 2 anos </strong> na área por conta Própria <br>
-Tenhos alguns certificados de cursos Gratuitos Como os Cursos do Curso em video <br>
 <br>
-Curso de html e css<br>
-Curso de JS / Logica de programação<br>
-Curso de JAVA<br>
-Curso sobre Seguraça da informação (A terminar)<br>
+tenho 17 anos, Sou um desenvolvedor Dedicado e amo o que faço <br> estudo e me aprimoro <strong> a mais de 2 anos </strong> na área <br>
+Procuro sempre resolver problemas de forma rapida e eficiente! <br>
+<br>
+- Analise e Desenvolvimento De Sistemas - EEEP Deputado Roberto Mesquita <br>
+- Curso de html e css - Curso em Video<br>
+- Curso de JS / Logica de programação - Curso em Video<br>
+- Curso de JAVA - Curso em Video <br>
 
 <br>
 <br>
@@ -44,12 +44,6 @@ Curso sobre Seguraça da informação (A terminar)<br>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width:"40" height="40" />
   </div>
 </div>
-<br>
-- Sempre viso o futuro, seja melhor hoje para não errar amanha!
-<br>
-- Procuro me aprimorar nas coisas que ja sei, Mas Aprender nunca é demais!
-<br>
-- Futuro Engeheiro de sorfware 
 <br>
 
 ## Como entra em contato cmg?!
