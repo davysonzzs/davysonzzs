@@ -2,7 +2,7 @@
 **`Desenvolvedor FullStack`**
 <br>
 <br>
-tenho 17 anos, Sou um desenvolvedor Dedicado e amo o que faço <br> estudo e me aprimoro <strong> a mais de 2 anos </strong> na área <br>
+tenho 17 anos, Sou um Desenvolvedor "se vira" (Full stack), experiente em criação Web <br> estudo e me aprimoro <strong> a mais de 2 anos </strong> na área <br>
 Procuro sempre resolver problemas de forma rapida e eficiente! <br>
 <br>
 - Analise e Desenvolvimento De Sistemas - EEEP Deputado Roberto Mesquita <br>
